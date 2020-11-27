@@ -1,0 +1,5 @@
+Enter an integer number between 1 and 99999: 289996
+number is not between 1 and 99999
+
+Enter an integer number between 1 and 99999: 4785
+Its a four digit number
