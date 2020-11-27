@@ -1,0 +1,6 @@
+5
+9
+1
+0
+Greater numbers is = 9
+smaller numbers is = 0
