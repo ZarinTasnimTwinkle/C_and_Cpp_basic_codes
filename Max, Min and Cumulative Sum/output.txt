@@ -1,0 +1,5 @@
+Enter the size of the array: 5
+Enter the elements of the array: 3 9 2 6 1
+Maximum number: 9
+Mimimum number: 1
+Cumulative sum: 3 12 14 20 21
