@@ -1,0 +1,67 @@
+1 for addition
+2 for subtraction
+3 for multiplication
+4 for divition
+5 for modulus
+6 for Exit
+
+1
+enter two number 2 3
+addition of the given number is= 5
+
+1 for addition
+2 for subtraction
+3 for multiplication
+4 for divition
+5 for modulus
+6 for Exit
+
+2
+enter two number 2 3
+subtraction of the given number is= -1
+
+1 for addition
+2 for subtraction
+3 for multiplication
+4 for divition
+5 for modulus
+6 for Exit
+
+3
+enter two number 2
+3
+multiplication of the given number is= 6
+
+1 for addition
+2 for subtraction
+3 for multiplication
+4 for divition
+5 for modulus
+6 for Exit
+
+4
+enter two number 2 3
+divition of the given number is= 0.666667
+
+1 for addition
+2 for subtraction
+3 for multiplication
+4 for divition
+5 for modulus
+6 for Exit
+
+5
+enter two number 2 3
+modulus of the given number is= 2
+
+1 for addition
+2 for subtraction
+3 for multiplication
+4 for divition
+5 for modulus
+6 for Exit
+
+7
+Invalid Input
+6
+Thank You
