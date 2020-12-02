@@ -1,0 +1,10 @@
+sample 1
+Input search value: 10
+location of 10: 1 2 14
+ Total: 3
+
+sample 2
+
+Enter search value: 45
+
+ item not in list...
