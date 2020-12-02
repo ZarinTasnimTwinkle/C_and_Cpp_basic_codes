@@ -1,0 +1,8 @@
+Enter no. of persons: 3
+2
+3
+1
+
+ maximum height: 3.00
+ minimum height: 1.00
+ Sum of height: 6.00
