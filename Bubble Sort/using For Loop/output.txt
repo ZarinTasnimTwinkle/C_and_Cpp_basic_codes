@@ -1,0 +1,5 @@
+Enter the total Number of Elements  :  4
+Enter the Array Elements  :  3 2 1 4
+
+List Sorted in Ascending Order : 1 2 3 4
+List Sorted in descending Order : 4 3 2 1

@@ -1,0 +1,12 @@
+Number of Student: 3
+zarin
+tasnim
+mim
+
+student name-1: zarin
+student name-2: tasnim
+student name-3: mim
+
+1.mim
+2.tasnim
+3.zarin

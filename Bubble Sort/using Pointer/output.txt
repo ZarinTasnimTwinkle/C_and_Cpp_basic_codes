@@ -1,0 +1,5 @@
+Enter the total Number of Elements  :  5
+Enter the Array Elements  :  3 9 2 0 1
+
+Array Sorted in Ascending Order : 0 1 2 3 9
+Array Sorted in descending Order : 9 3 2 1 0
