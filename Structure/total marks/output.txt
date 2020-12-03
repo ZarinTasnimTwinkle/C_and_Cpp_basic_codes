@@ -1,0 +1,36 @@
+sample 1
+Enter the number of student: 3
+Enter roll: 19042
+Enter student marks: 90 98 91
+Enter roll: 19003
+Enter student marks: 99 98 89
+Enter roll: 19004
+Enter student marks: 90 80 99
+
+roll 19003 merit position 1 total 286
+roll 19042 merit position 2 total 279
+roll 19004 merit position 3 total 269
+
+
+
+sample 2
+how many student? 2
+
+Enter student-1 roll 3
+
+Enter student-1 name asif
+
+Enter student-1 sub marks:
+Enter sub-1 mark 23
+Enter sub-2 mark 24
+
+Enter student-2 roll 42
+
+Enter student-2 name zarin
+
+Enter student-2 sub marks:
+Enter sub-1 mark 24
+Enter sub-2 mark 25
+
+Student1 achieved total marks: 47
+Student2 achieved total marks: 49
